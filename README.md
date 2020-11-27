@@ -1,2 +1,2 @@
-# spring-template
+# spring-templates
 mẫu dự án tiêu chuẩn trên spring framework
