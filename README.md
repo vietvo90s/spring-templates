@@ -4,4 +4,10 @@ Created: Nov 14, 2020 10:37 AM
 
 Các mẫu dự án tiêu chuẩn sử dụng Spring Framework
 
-[Spring Templates](https://www.notion.so/bb138160a9714633a769e69b494d748e)
+| Project       | JDK     | Description       |
+| ------------- | --------|
+| Content Cell  | JDK 8   |
+
+| Project | JDK | Description | Dependencies |
+| --- | --- | --- | --- |
+| spring-mvc8 | JDK 8 | Spring Web App (Model-View-Controller) | **thymeleaf**, **bootstrap 4.0** |
