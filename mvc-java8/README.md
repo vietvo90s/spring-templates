@@ -1,6 +1,8 @@
-# readme.md
+# Spring Boot MVC Sample Java 8
 
 Created: Nov 14, 2020 10:37 AM
+
+Ứng dụng Web ví dụ sử dụng Spring Boot và Spring MVC
 
 ### Init
 
@@ -13,13 +15,14 @@ Created: Nov 14, 2020 10:37 AM
 - `Web`
 - `Thymeleaf`
 - `Spring Boot Devtools`
+- `Bootstrap 4.0`
 
 ### Endpoint:
 
 - `get:`  `/`
 
-    ![readme%20md%2013e85c6133a44769b212b17989c00e64/Untitled.png](readme%20md%2013e85c6133a44769b212b17989c00e64/Untitled.png)
+    ![Spring%20Boot%20MVC%20Sample%20Java%208%2013e85c6133a44769b212b17989c00e64/Untitled.png](Spring%20Boot%20MVC%20Sample%20Java%208%2013e85c6133a44769b212b17989c00e64/Untitled.png)
 
 - `get:`  `/info`
 
-    ![readme%20md%2013e85c6133a44769b212b17989c00e64/Untitled%201.png](readme%20md%2013e85c6133a44769b212b17989c00e64/Untitled%201.png)
+    ![Spring%20Boot%20MVC%20Sample%20Java%208%2013e85c6133a44769b212b17989c00e64/Untitled%201.png](Spring%20Boot%20MVC%20Sample%20Java%208%2013e85c6133a44769b212b17989c00e64/Untitled%201.png)
